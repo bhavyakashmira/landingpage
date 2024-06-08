@@ -87,7 +87,7 @@ function FAQ() {
               </div>
              
               <div className='m-20' >
-                  <Image src="/frame.png" height="1000" width="1000" />
+                  <Image src="/Frame.png" height="1000" width="1000" />
               </div>
             
           </section>

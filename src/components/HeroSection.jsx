@@ -9,7 +9,7 @@ function HeroSection() {
               <div className="mx-auto max-w-screen-xl px-4 ">
                   <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
                       <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
-                          <Image src="/iphone.png" height="500" width="500"  />
+                          <Image src="/Iphone.png" height="500" width="500"  />
                       </div>
                       <div className='p-24 mt-10 ' >
                           <div className="">
